@@ -1,0 +1,5 @@
+*.egg-info/
+build/
+picknet/
+__pycache__/
+.DS_Store

@@ -1,0 +1,2 @@
+recursive-include picknet *
+recursive-exclude picknet */*.pyc
