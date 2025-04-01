@@ -75,4 +75,5 @@ pip install -v .
     python -u [自定义运行脚本] [...]  # 后续参数设定方法不变
   ```
 
-
+## Citation  
+Wang, J.*, Xiao, Z.*, Liu, C., Zhao, D., & Yao, Z. (2019). Deep learning for picking seismic arrival times. Journal of Geophysical Research: Solid Earth, 124, 6612– 6624. https://doi.org/10.1029/2019JB017536
